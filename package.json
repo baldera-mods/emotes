@@ -1,0 +1,16 @@
+{
+  "name": "emotes",
+  "version": "1.0.0",
+  "description": "Quality of life improvements for emotes.",
+  "author": "meishu",
+  "license": "ISC",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baldera-mods/emotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/baldera-mods/emotes/issues"
+  },
+  "homepage": "https://github.com/baldera-mods/emotes#readme"
+}
